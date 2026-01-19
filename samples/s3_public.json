@@ -1,0 +1,12 @@
+{
+  "bucketName": "s3-public",
+  "publicAccessBlock": {
+    "BlockPublicAcls": false,
+    "IgnorePublicAcls": false,
+    "BlockPublicPolicy": false,
+    "RestrictPublicBuckets": false
+  },
+  "encryption": { "enabled": false, "type": null },
+  "acl": { "isPublicRead": true, "isPublicWrite": false, "grants": [] },
+  "policy": null
+}
